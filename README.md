@@ -51,4 +51,4 @@ Usage:
    
 - Comparison Page
 1. Enter the desired length of the array.
-2.Click "Compare" to see a comparison of execution times for all supported sorting algorithms.
+2. Click "Compare" to see a comparison of execution times for all supported sorting algorithms.
