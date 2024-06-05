@@ -6,7 +6,9 @@ Home Page: Select a sorting algorithm and visualize the sorting process with ran
 Comparison Page: Compare the execution times of different sorting algorithms using Google Charts.
 Supported Sorting Algorithms:
 Bubble Sort
+
 Insertion Sort
+
 Merge Sort
 Heap Sort
 Quick Sort
