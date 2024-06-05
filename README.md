@@ -33,7 +33,7 @@ cd Complexity-Analysis-of-Sorting-Algorithms
 Install the required packages:
 
 - pip install Flask
-- 
+  
 Running the Application
 
 Start the Flask server:
@@ -44,10 +44,11 @@ Open your web browser and navigate to the application.
 
 Usage: 
 
---Home Page
+-Home Page
 1. Enter the desired length of the array.
 2. Select a sorting algorithm from the dropdown menu.
 3. Click "Submit" to see the sorted array and execution time.
---Comparison Page
+   
+-Comparison Page
 1. Enter the desired length of the array.
 2.Click "Compare" to see a comparison of execution times for all supported sorting algorithms.
