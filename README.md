@@ -3,13 +3,17 @@ This repository contains a Flask web application that allows users to visualize 
 
 Features
 Home Page: Select a sorting algorithm and visualize the sorting process with random arrays.
+
 Comparison Page: Compare the execution times of different sorting algorithms using Google Charts.
+
 Supported Sorting Algorithms:
-Bubble Sort
 
-Insertion Sort
+1. Bubble Sort
 
-Merge Sort
+2. Insertion Sort
+
+3. Merge Sort
+4. 
 Heap Sort
 Quick Sort
 Quick Sort with 3-Median
